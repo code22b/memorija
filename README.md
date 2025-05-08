@@ -1,0 +1,2 @@
+# memorija
+JavaScript memorija
